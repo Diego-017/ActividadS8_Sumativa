@@ -12,6 +12,7 @@ William Alexis Montes Girón.
 
 Integrantes:
 Diego Martín López Moreno (SMSS097824). 
+
 Walter Alexander Ramirez Benitez (SMSS082124).
 
 Grupo: A3.
